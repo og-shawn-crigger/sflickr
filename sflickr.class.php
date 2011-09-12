@@ -3,8 +3,10 @@
  *
  *  Extends PHPFlickR Class with some functions used to easily make gallery's.
  *
- *
- *  @author    Shawn Crigger<shawn@s-vizion.com>
+ *  @author     Shawn Crigger <support@s-vizion.com
+ *  @version    1.0.5 (last revision: May 21, 2011)
+ *  @copyright  (c) 201 - 2012 S-Vizion Software
+ *  @package    sFlickR
  *  @license   MIT License,  You can modify but can not redistribute modifyed file without giving credit to Authors
  * 
  */ 
